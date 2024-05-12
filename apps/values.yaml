@@ -5,6 +5,6 @@ spec:
     repoURL: https://github.com/argoproj/argocd-example-apps
     targetRevision: HEAD
   armosec:
-    clusterName: kind-argocd-test
+    clusterName:
     account:
     accessKey:
